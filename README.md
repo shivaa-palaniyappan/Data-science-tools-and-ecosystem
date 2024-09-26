@@ -8,7 +8,7 @@
 
 # Author
 
-### Gughan S
+### shivaa palaniyappan v
 
 In this notebook, Data Science Tools and Ecosystem are summarized.
 ## Objectives
